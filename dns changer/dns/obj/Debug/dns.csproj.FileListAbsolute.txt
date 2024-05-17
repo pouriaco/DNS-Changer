@@ -1,0 +1,44 @@
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\bin\Debug\dns.exe.config
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\bin\Debug\dns.exe
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\bin\Debug\dns.pdb
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\obj\Debug\dns.csproj.AssemblyReference.cache
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\obj\Debug\dns.csproj.SuggestedBindingRedirects.cache
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\obj\Debug\dns.Form1.resources
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\obj\Debug\dns.Properties.Resources.resources
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\obj\Debug\dns.csproj.GenerateResource.cache
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\obj\Debug\dns.csproj.CoreCompileInputs.cache
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\obj\Debug\dns.csproj.CopyComplete
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\obj\Debug\dns.exe
+C:\Users\Computer.Kosar\Desktop\dns\dns\dns\obj\Debug\dns.pdb
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\bin\Debug\dns.exe.config
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\bin\Debug\dns.exe
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\bin\Debug\dns.pdb
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\obj\Debug\dns.csproj.AssemblyReference.cache
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\obj\Debug\dns.csproj.SuggestedBindingRedirects.cache
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\obj\Debug\dns.Form1.resources
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\obj\Debug\dns.Properties.Resources.resources
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\obj\Debug\dns.csproj.GenerateResource.cache
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\obj\Debug\dns.csproj.CoreCompileInputs.cache
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\obj\Debug\dns.csproj.CopyComplete
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\obj\Debug\dns.exe
+C:\Users\Computer.Kosar\Desktop\dns\dns changer\dns\obj\Debug\dns.pdb
